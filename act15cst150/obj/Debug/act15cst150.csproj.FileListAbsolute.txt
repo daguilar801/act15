@@ -1,0 +1,12 @@
+C:\Users\Daniel\Desktop\CST - 150\act15\act15cst150\bin\Debug\act15cst150.exe.config
+C:\Users\Daniel\Desktop\CST - 150\act15\act15cst150\bin\Debug\act15cst150.exe
+C:\Users\Daniel\Desktop\CST - 150\act15\act15cst150\bin\Debug\act15cst150.pdb
+C:\Users\Daniel\Desktop\CST - 150\act15\act15cst150\obj\Debug\act15cst150.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\CST - 150\act15\act15cst150\obj\Debug\act15cst150.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daniel\Desktop\CST - 150\act15\act15cst150\obj\Debug\act15cst150.Form1.resources
+C:\Users\Daniel\Desktop\CST - 150\act15\act15cst150\obj\Debug\act15cst150.luckynumberform.resources
+C:\Users\Daniel\Desktop\CST - 150\act15\act15cst150\obj\Debug\act15cst150.Properties.Resources.resources
+C:\Users\Daniel\Desktop\CST - 150\act15\act15cst150\obj\Debug\act15cst150.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\CST - 150\act15\act15cst150\obj\Debug\act15cst150.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\CST - 150\act15\act15cst150\obj\Debug\act15cst150.exe
+C:\Users\Daniel\Desktop\CST - 150\act15\act15cst150\obj\Debug\act15cst150.pdb
